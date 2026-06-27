@@ -31,7 +31,7 @@ Analyze Walmart retail sales data to evaluate sales performance, profitability, 
 ## Project Files
 
 * `Retail_Analysis.ipynb`
-* `sales_analysis.sql`
+* `walmart_analysis.sql
 * `dashboard.pbix`
 * `dashboard.png`
 * `Retail_Business_Performance_Report.pdf`
