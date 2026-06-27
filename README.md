@@ -1,5 +1,3 @@
-# retail-business-performance-analysis
-
 # Retail Business Performance and Profitability Analysis
 
 ## Objective
@@ -31,7 +29,7 @@ Analyze Walmart retail sales data to evaluate sales performance, profitability, 
 ## Project Files
 
 * `Retail_Analysis.ipynb`
-* `walmart_analysis.sql
+* `sales_analysis.sql`
 * `dashboard.pbix`
 * `dashboard.png`
 * `Retail_Business_Performance_Report.pdf`
